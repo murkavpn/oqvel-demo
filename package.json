@@ -1,0 +1,16 @@
+{
+  "name": "oqvel-public-demo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Verified static OQVEL demonstration, without production source or services",
+  "scripts": {
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "7.4.2"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
